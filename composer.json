@@ -1,0 +1,11 @@
+{
+  "name": "fabien/simplon-tu",
+  "require": {
+    "phpunit/phpunit": "^9.4"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
